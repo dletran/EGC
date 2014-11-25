@@ -1,3 +1,3 @@
 Testing git
 
-Tryng to create a conflict
+Tryng to create a conflict. Really?
